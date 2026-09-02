@@ -50,3 +50,7 @@ The objective of this project is to transform shoe sales data into an interactiv
 - Data analysis
 - Business intelligence
 - Power BI reporting
+
+## 📂 Project Files
+
+- `Shoes_Sales_PowerBI_Dashboard.jpg` — Dashboard preview
