@@ -1,5 +1,7 @@
 # Shoe Sales Power BI Dashboard
 
+> An interactive Power BI dashboard for analyzing shoe sales performance, transactions, customer ratings, and product trends.
+
 ## 📊 Project Overview
 
 This project is an interactive Power BI dashboard created to analyze shoe sales data and provide useful business insights.
