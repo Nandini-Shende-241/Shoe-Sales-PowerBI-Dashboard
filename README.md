@@ -33,7 +33,7 @@ The dashboard presents key sales and transaction metrics in an easy-to-understan
 
 ## 🖼️ Dashboard Preview
 
-![Shoe Sales Power BI Dashboard](Shoe-Sales-PowerBI-Dashboard.png)
+![Shoe Sales Power BI Dashboard](Shoe_Sales_PowerBI_Dashboard.png)
 
 ## 💡 Project Objective
 
